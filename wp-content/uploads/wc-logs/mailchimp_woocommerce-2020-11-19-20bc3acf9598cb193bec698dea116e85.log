@@ -1,0 +1,132 @@
+2020-11-19T21:24:11+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fb438ba5b73a
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => fe61f0ba44
+            [name] => Lica Pottery
+            [domain] => http://181.105.157.39/wordpress
+            [email_address] => boero.martin@gmail.com
+            [currency_code] => ARS
+            [money_format] => $
+            [primary_locale] => es_AR
+            [timezone] => America/Argentina/Buenos_Aires
+            [phone] => 1168949797
+            [address] => Array
+                (
+                    [address1] => Bulnes 1594
+                    [city] => Buenos Aires
+                    [province] => C
+                    [postal_code] => 1706
+                    [country] => AR
+                    [country_code] => AR
+                    [phone] => 1168949797
+                    [company] => Lica Pottery
+                )
+
+        )
+
+)
+
+2020-11-19T21:24:14+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fb438ba5b73a
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => fe61f0ba44
+            [name] => Lica Pottery
+            [domain] => http://181.105.157.39/wordpress
+            [email_address] => boero.martin@gmail.com
+            [currency_code] => ARS
+            [money_format] => $
+            [primary_locale] => es_AR
+            [timezone] => America/Argentina/Buenos_Aires
+            [phone] => 1168949797
+            [address] => Array
+                (
+                    [address1] => Bulnes 1594
+                    [city] => Buenos Aires
+                    [province] => C
+                    [postal_code] => 1706
+                    [country] => AR
+                    [country_code] => AR
+                    [phone] => 1168949797
+                    [company] => Lica Pottery
+                )
+
+        )
+
+)
+
+2020-11-19T21:24:17+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fb438ba5b73a
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => fe61f0ba44
+            [name] => Lica Pottery
+            [domain] => http://181.105.157.39/wordpress
+            [email_address] => boero.martin@gmail.com
+            [currency_code] => ARS
+            [money_format] => $
+            [primary_locale] => es_AR
+            [timezone] => America/Argentina/Buenos_Aires
+            [phone] => 1168949797
+            [address] => Array
+                (
+                    [address1] => Bulnes 1594
+                    [city] => Buenos Aires
+                    [province] => C
+                    [postal_code] => 1706
+                    [country] => AR
+                    [country_code] => AR
+                    [phone] => 1168949797
+                    [company] => Lica Pottery
+                )
+
+        )
+
+)
+
+2020-11-19T21:24:18+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Thu, Nov 19, 2020 9:24 PM
+2020-11-19T21:24:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-11-19T21:24:59+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-11-19T21:24:59+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 215
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 257
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 258
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 259
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 313
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 315
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 319
+2020-11-19T21:24:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 321
+2020-11-19T21:25:01+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-11-19T21:25:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #215
+2020-11-19T21:25:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #257
+2020-11-19T21:25:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #258
+2020-11-19T21:25:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #259
+2020-11-19T21:25:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #313
+2020-11-19T21:25:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #315
+2020-11-19T21:25:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #319
+2020-11-19T21:25:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #321
+2020-11-19T21:25:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-11-19T21:25:15+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-11-19T21:26:03+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Nov 19, 2020 9:26 PM (total time: 00:01:45)
+2020-11-19T21:28:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 3
+2020-11-19T21:29:02+00:00 NOTICE member.sync :: Subscribed Member mboero@provinciamicrocreditos.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
